@@ -23,7 +23,7 @@ Web interface that allows users to connect [Qubic Wallet](https://github.com/qub
 
 ## 4. UI Proposal
 
-![CleanShot 2025-02-11 at 13 45 36@2x](https://github.com/user-attachments/assets/893b7e79-8dc1-40ec-9aef-e4f8ae25cb4a)
+![CleanShot 2025-02-11 at 13 45 36@2x](https://github.com/user-attachments/assets/05085beb-744b-4082-8606-90dd2ccf23d4)
 
 ## 6. Costs, milestones and payment plan
 
