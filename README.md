@@ -21,9 +21,9 @@ Web interface that allows users to connect [Qubic Wallet](https://github.com/qub
 * Wallet integration: Via seed input or [MetaMask Snap](https://github.com/qubic/qubic-mm-snap)
 * Cloud: AWS or GCP
 
-## 4. Architectural drawing
+## 4. UI Proposal
 
-> **INFO:**  TODO
+![CleanShot 2025-02-11 at 13 45 36@2x](https://github.com/user-attachments/assets/893b7e79-8dc1-40ec-9aef-e4f8ae25cb4a)
 
 ## 6. Costs, milestones and payment plan
 
